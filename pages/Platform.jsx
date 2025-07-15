@@ -1,0 +1,1 @@
+export default function Platform() { return <div>Platform Kami - Coming Soon</div>; }
