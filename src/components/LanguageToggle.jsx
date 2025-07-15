@@ -1,0 +1,1 @@
+export default function LanguageToggle() { return <div>BM | BI</div>; }
